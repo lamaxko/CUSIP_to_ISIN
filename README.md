@@ -26,10 +26,6 @@ Note: The Selenium package requires a driver to interface with the chosen browse
 - Make sure you've installed all required packages with the `pip install -r requirements.txt` command.
 - If you have any issues with the script, feel free to open an issue in this repository.
 
-## Contributions
-
-Contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
