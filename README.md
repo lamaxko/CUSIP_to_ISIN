@@ -17,7 +17,7 @@ Note: The Selenium package requires a driver to interface with the chosen browse
 ## How to use
 
 1. Save your CUSIP numbers in a CSV file. You should place this file in a folder called 'CUSIP_files' located in the same directory as the script.
-2. Run the script using Python in your terminal/command prompt like this: `python isindb_working.py`.
+2. Run the script using Python in your terminal/command prompt like this: `python3 isindb_working.py`.
 3. The script will create a new CSV file in the 'ISIN_files' folder (which it will create if doesn't exist) with your converted ISIN numbers.
 
 ## Troubleshooting
